@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hospital_app</string>
+
+    <string-array name="doctor_options_array">
+        <item>Doctor 1</item>
+        <item>Doctor 2</item>
+        <item>Doctor 3</item>
+    </string-array>
+
+    <string-array name="nurse_options_array">
+        <item>Doctor 1</item>
+        <item>Doctor 2</item>
+        <item>Doctor 3</item>
+    </string-array>
+</resources>
