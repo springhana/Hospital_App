@@ -33,14 +33,16 @@
 <hr>
 
 # 의사 정보
-※ 의사 정보 입력 후 로그인
-<br>
+※ 의사 정보 입력 후 로그인<br>
+
 ![image](https://github.com/springhana/Hospital_App/assets/97121074/0131ca80-628b-4069-ac93-de8afcbe4ed4)
-<br>
-※ 로그인 후
+
+※ 로그인 후<br>
+
 ![image](https://github.com/springhana/Hospital_App/assets/97121074/465c1d70-6073-4792-95d4-a56c015c947b)
-<br>
-※ 의사 담당하는 진료
+
+※ 의사 담당하는 진료<br>
+
 ![image](https://github.com/springhana/Hospital_App/assets/97121074/52b3cea7-ab40-425e-958d-5af3a6733527)
 
 
