@@ -1,6 +1,6 @@
 # Hospital_App
-병원 진료 신청 앱
-<a href="">Web으로도 보기</a>
+병원 진료 신청 앱<br>
+<a href="https://github.com/springhana/Hospital_Web/blob/main/README.md">Web으로도 보기</a>
 
 # 메인 화면
 ※ 의사, 간호사 정보 자동 POST
