@@ -14,12 +14,12 @@
 ※ 회원 정보가 있다면 로그인, 아니면 회원가입을 누르고 정보를 적고 제출
 
 <img src="https://github.com/springhana/Hospital_App/assets/97121074/65e4fdd6-f2a7-459e-92c1-77c8956afb76" width="30%" height="30%"/>
-![image](https://github.com/springhana/Hospital_App/assets/97121074/994a3030-260f-426f-97c0-4715e6ca8c92)
+
 
 <img src="https://github.com/springhana/Hospital_App/assets/97121074/021c01f0-82cb-4f90-9f0f-e3b0fc207619" width="30%" height="30%"/>
 <br>
 <hr>
-※ 진료 내용과 차트 내용(진료 처방)을 적고 제출
+※ 진료 내용과 차트 내용(진료 처방)을 적고 제출<br>
 
 <img src="https://github.com/springhana/Hospital_App/assets/97121074/35d25733-e48c-4a78-a3e9-e4ecfdda8b19" width="30%" height="30%"/>
 
