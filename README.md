@@ -1,5 +1,7 @@
 # Hospital_App
 병원 진료 신청 앱<br>
+※ 사용한 DB - MariaDB
+<a href="https://github.com/springhana/Hospital_Server">Hospital_Server</a><br>
 <a href="https://github.com/springhana/Hospital_Web/blob/main/README.md">Web으로도 보기</a>
 
 # 메인 화면
